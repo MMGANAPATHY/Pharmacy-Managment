@@ -26,21 +26,6 @@ A desktop-based **Pharmacy Management Software** built using **Python**, **Tkint
 
 ---
 
-## 📂 Project Structure
-
-```
-Pharmacy_Management_System/
-│
-├── main.py                # Main application file
-├── database.py            # Database connection and queries
-├── ui.py                  # Tkinter UI components
-├── requirements.txt       # Required Python libraries
-├── pharmacy.db            # SQL database file
-└── README.md              # Project documentation
-```
-
----
-
 
 ## 🗄️ Database Details
 
